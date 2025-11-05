@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+  <title>Home</title>
+  <link href='/ESRI.ArcGIS.SDS.REST.css' rel='stylesheet' type='text/css'>
+  <link rel='SHORTCUT ICON' href='/favicon.ico'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+  <meta name="keywords" content="ArcGIS REST Services Directory Root">
+</head>
+<body>
+<table width="100%" id="userTable" class="userTable">
+<tr>
+<td class="titlecell">ArcGIS REST Services Directory</td>
+</tr>
+</table>
+<table id="navTable" class="navTable" width="100%">
+<tbody>
+<tr valign="top">
+<td class="breadcrumbs">
+<span id="homeBreadcrumbs"><a href="/tWGYTcJH2rVd3fQm/ArcGIS/rest/services?token=3NKHt6i2urmWtqOuugvr9f6kQZHHrMszhHulbBmdN3Rz3zKeKH_i_bq_pAgPK1lMg73BVkWMPQOc6ONGElyCKwQisSaShDZ9zsQT7wEb5vfUqDsPgQ6Io0Agmuf7nCPD6DFqhaurkcn4L1aQJYaAVFlsGKh-d7IgT41R4MfECA-PI6urxhuaKWhq1XbMZO8sI3SV8gK5tWRIoX0xPSv9mCYW_6X09x-44JPqBdDv52OBuqdvkkXh4z_aUPAU3iP6">Home</a> > <a href="/tWGYTcJH2rVd3fQm/ArcGIS/rest/services?token=3NKHt6i2urmWtqOuugvr9f6kQZHHrMszhHulbBmdN3Rz3zKeKH_i_bq_pAgPK1lMg73BVkWMPQOc6ONGElyCKwQisSaShDZ9zsQT7wEb5vfUqDsPgQ6Io0Agmuf7nCPD6DFqhaurkcn4L1aQJYaAVFlsGKh-d7IgT41R4MfECA-PI6urxhuaKWhq1XbMZO8sI3SV8gK5tWRIoX0xPSv9mCYW_6X09x-44JPqBdDv52OBuqdvkkXh4z_aUPAU3iP6">services</a> </span></td>
+<td align="right">
+ | <a href="http://resources.arcgis.com/en/help/arcgis-rest-api/" target="_blank">API Reference</a></td>
+</tr>
+</tbody>
+</table>
+<div id="jsonLinkTable">
+<table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson&token=3NKHt6i2urmWtqOuugvr9f6kQZHHrMszhHulbBmdN3Rz3zKeKH_i_bq_pAgPK1lMg73BVkWMPQOc6ONGElyCKwQisSaShDZ9zsQT7wEb5vfUqDsPgQ6Io0Agmuf7nCPD6DFqhaurkcn4L1aQJYaAVFlsGKh-d7IgT41R4MfECA-PI6urxhuaKWhq1XbMZO8sI3SV8gK5tWRIoX0xPSv9mCYW_6X09x-44JPqBdDv52OBuqdvkkXh4z_aUPAU3iP6" target="_blank">JSON</a>
+</td>
+</tr>
+</table>
+</div>
+<div class='restHeader'>
+<h2>Home</h2>
+</div>
+<div class='restBody'>
+<div class="restErrors">
+Invalid token.<br/>
+</div>
+</div>
+</body>
+</html>
